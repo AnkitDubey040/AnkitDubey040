@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit Dubey</h1>  
 
-[![](https://visitcount.itsvg.in/api?id=AnkitDubey040&icon=5&color=6)](https://visitcount.itsvg.in)
+ [![](https://visitcount.itsvg.in/api?id=AnkitDubey040&icon=5&color=6)](https://visitcount.itsvg.in)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AnkitDubey040&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
