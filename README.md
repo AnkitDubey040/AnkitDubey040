@@ -36,7 +36,5 @@
 
 
 
-
-<img  align="right" alt="Coding" width="400"
 ![ML-Product-Main](https://user-images.githubusercontent.com/87509236/208658940-3df3e24d-c897-4a05-9083-21f5e46802a9.jpeg)
-alt = "gif">
+
