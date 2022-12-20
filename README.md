@@ -33,8 +33,3 @@
 - 👀 I’m interested in Coding, Data science, Statistics, Mathematics 
 - 🌱 I’m currently learning Python Programming and pursuing Data Sciene.
 - 💞️ Looking forward to collaborate on Python Projects and data science projects. 
-
-
-
-![ML-Product-Main](https://user-images.githubusercontent.com/87509236/208660514-a4f37f13-1305-4ebf-bd5b-726d6f243d57.jpg)
-
