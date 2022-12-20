@@ -36,4 +36,7 @@
 
 
 
-<img  align="right" alt="Coding" width="400" src="https://github.com/AnkitDubey040/Notes/blob/main/ML-Product-Main.jpeg" alt="gif">
+
+
+![ML-Product-Main](https://user-images.githubusercontent.com/87509236/208658940-3df3e24d-c897-4a05-9083-21f5e46802a9.jpeg)
+
